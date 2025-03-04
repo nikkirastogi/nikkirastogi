@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nikki</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkirastogi" alt="nikkirastogi" /></a> </p>
-
 - 📫 How to reach me **nikkirastogi1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
